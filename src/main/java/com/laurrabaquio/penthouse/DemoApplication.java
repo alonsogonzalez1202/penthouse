@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.List;
-alonso.gonzalez1202@gmail.com
+
 @SpringBootApplication
 @RestController
 public class DemoApplication {
